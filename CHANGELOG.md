@@ -3,6 +3,11 @@ All notable changes to the "solarized-high-contrast-light" extension will be doc
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.4.0 - 2025-08-06
+### Added
+- Black bracket pair lines
+- Red error color for unexpected brackets
+
 ## 1.3.1 - 2024-09-11
 ### Fixed
 - Added missing release date of v1.3.0 to changelog
