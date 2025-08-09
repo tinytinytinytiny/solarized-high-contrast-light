@@ -3,6 +3,10 @@ All notable changes to the "solarized-high-contrast-light" extension will be doc
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.4.1 - 2025-08-09
+### Changed
+- Bracket pair line color changed to bracket match border (#7B7664)
+
 ## 1.4.0 - 2025-08-06
 ### Added
 - Black bracket pair lines
